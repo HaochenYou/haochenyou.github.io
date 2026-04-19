@@ -14,5 +14,5 @@ Before joining UVA, I earned a Bachelor's degree in Mathematics and Applied Math
 News
 ------
 
-- 2026/08: I joined UVA as a Ph.D. student in computer science!
+- **2026/08**: I joined UVA as a Ph.D. student in computer science!
 
