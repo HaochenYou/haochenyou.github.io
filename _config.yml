@@ -23,7 +23,7 @@ repository               : "HaochenYou/haochenyou.github.io"  # The repository n
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/HaochenYou_figure"
+  avatar           : "images/HaochenYou_figure.jpg"
   name             : "Haochen You"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
