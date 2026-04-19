@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi! I am a first-year Ph.D. student in the Department of Computer Science at the University of Virginia, where I am fortunate to be working under the guidance of Prof. Shangtong Zhang in the Sequential Intelligence Lab (SIL). My current research interests primarily focus on the theory and applications of reinforcement learning, and I am also interested in the latest advancements in generative models and agent-based systems.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Before joining UVA, I earned a Bachelor's degree in Mathematics and Applied Mathematics from Shanghai Jiao Tong University, and I subsequently completed a Master's degree in Statistics at Columbia University.
 
 A data-driven personal website
 ======
