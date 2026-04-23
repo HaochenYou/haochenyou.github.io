@@ -25,7 +25,7 @@ redirect_from:
 
 ## Experience
 
-- ### **Research Assistant**  
+- **Research Assistant**  
   **Nanjing University**  
   *February 2026 – June 2026*  
   - Worked under the supervision of [Prof. Tianpei Yang](https://tianpeiyang.github.io/){:target="_blank"}
