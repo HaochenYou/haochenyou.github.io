@@ -10,7 +10,7 @@ author_profile: true
 
 ## Conference Papers
 
-- [DASFAA 2026] [<a href="https://dasfaa2026.github.io/program/awards.html" target="_blank" style="color:#d46a6a; text-decoration:none;">Best Paper Runner-Up</a>] [Mitigating Generic Token Dominance in Cross-Domain Foundation Model for Text-Attributed Graphs](https://link.springer.com/chapter/10.1007/978-981-92-0366-6_16){:target="_blank"}  
+- [DASFAA 2026] [<a href="https://dasfaa2026.github.io/program/awards.html" target="_blank" style="color:#d46a6a; text-decoration:underline;">Best Paper Runner-Up</a>] [Mitigating Generic Token Dominance in Cross-Domain Foundation Model for Text-Attributed Graphs](https://link.springer.com/chapter/10.1007/978-981-92-0366-6_16){:target="_blank"}  
   Heng Zheng, **Haochen You**, Zijian Zhang, Lubin Gan, Hao Zhang, Wenjun Huang, Jin Huang<sup>†</sup>
 
 - [WWW 2026 Short Paper] [SIR-Teach: Student-Implicit Reward Teaching](https://dl.acm.org/doi/abs/10.1145/3774904.3792861){:target="_blank"}  
