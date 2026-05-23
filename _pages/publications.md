@@ -19,8 +19,10 @@ author_profile: true
 - [WACV 2026] [Reinforcement Learning-based Adaptive Control of Classifier-Free Guidance and Timestep Embeddings in Diffusion Models](https://openaccess.thecvf.com/content/WACV2026/html/You_Reinforcement_Learning-based_Adaptive_Control_of_Classifier-Free_Guidance_and_Timestep_Embeddings_WACV_2026_paper.html){:target="_blank"}  
   **Haochen You**<sup>†</sup>, Baojing Liu, and Hongyang He
 
+<!--
 - [CPAL 2026] [Generalized Radius and Integrated Codebook Transforms for Differentiable Vector Quantization](https://arxiv.org/abs/2602.01140){:target="_blank"}  
   **Haochen You**<sup>†</sup>, Heng Zhang, Hongyang He, Yuqi Li, and Baojing Liu
+-->
 
 - [NeurIPS 2025] [TRiCo: Triadic Game-Theoretic Co-Training for Robust Semi-Supervised Learning](https://openreview.net/forum?id=yZy6f3icew){:target="_blank"}  
   Hongyang He<sup>*</sup><sup>†</sup>, Xinyuan Song<sup>*</sup>, Yangfan He, Zeyu Zhang, Yanshu Li, **Haochen You**, Lifan Sun, Wenqiao Zhang
