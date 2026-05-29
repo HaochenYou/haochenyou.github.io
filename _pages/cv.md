@@ -27,5 +27,5 @@ redirect_from:
 
 - **Research Assistant**  
   **Nanjing University**  
-  *February 2026 – June 2026*  
+  *February 2026 – July 2026*  
   - Worked under the supervision of [Prof. Tianpei Yang](https://tianpeiyang.github.io/){:target="_blank"}
