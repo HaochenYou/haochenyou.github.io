@@ -25,7 +25,7 @@ author_profile: true
 -->
 
 - [NeurIPS 2025] [TRiCo: Triadic Game-Theoretic Co-Training for Robust Semi-Supervised Learning](https://openreview.net/forum?id=yZy6f3icew){:target="_blank"}  
-  Hongyang He<sup>*</sup><sup>†</sup>, Xinyuan Song<sup>*</sup>, Yangfan He, Zeyu Zhang, Yanshu Li, **Haochen You**, Lifan Sun, Wenqiao Zhang
+  Hongyang He<sup>*</sup><sup>†</sup>, Xinyuan Song<sup>*</sup>, Yangfan He, Zeyu Zhang, Yanshu Li, **Haochen You**, Lifan Sun, and Wenqiao Zhang
 
 - [CIKM 2025 Short Paper] [Mover: Multimodal optimal transport with volume-based embedding regularization](https://dl.acm.org/doi/abs/10.1145/3746252.3760958){:target="_blank"}  
   **Haochen You**<sup>†</sup>, and Baojing Liu
@@ -42,5 +42,6 @@ author_profile: true
 - [IEEE Transactions on Artificial Intelligence] [A Preference-Driven Methodology for Efficient Code Generation](https://ieeexplore.ieee.org/abstract/document/11273185){:target="_blank"}  
   Yuqi Li, Zijie Zhou, Zhiyuan Peng<sup>†</sup>, Junhao Dong, **Haochen You**, Renye Yan, Shiping Wen, Yingli Tian, and Tingwen Huang<sup>†</sup>
 
+- [Displays] [Q2] Multimodal Cross-Domain Recommendation Guided by Optimal Transport with Adaptive Confidence Thresholding Estimator
+  **Haochen You**<sup>*</sup><sup>†</sup>, and Baojing Liu<sup>*</sup>
 
-  
