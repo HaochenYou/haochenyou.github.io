@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 *This page highlights a selection of my academic publications.*  
-*<sup>*</sup> indicates equal contribution. <sup>†</sup> denotes the corresponding author.*
+*<sup>*</sup> indicates equal contribution. <sup>†</sup> denotes the corresponding author(s).*
 
 
 ## Conference Papers
