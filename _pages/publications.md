@@ -4,8 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-*Here are only some of the selected core academic publications. For a more complete list of my articles, please visit my Google Scholar profile.*  
-<sup>*</sup> indicates equal contribution. <sup>†</sup> denotes the corresponding author.
+*This page highlights a selection of my academic publications.*  
+*<sup>*</sup> indicates equal contribution. <sup>†</sup> denotes the corresponding author.*
 
 
 ## Conference Papers
