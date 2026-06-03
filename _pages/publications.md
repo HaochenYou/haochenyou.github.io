@@ -42,6 +42,6 @@ author_profile: true
 - [IEEE Transactions on Artificial Intelligence] [A Preference-Driven Methodology for Efficient Code Generation](https://ieeexplore.ieee.org/abstract/document/11273185){:target="_blank"}  
   Yuqi Li, Zijie Zhou, Zhiyuan Peng<sup>†</sup>, Junhao Dong, **Haochen You**, Renye Yan, Shiping Wen, Yingli Tian, and Tingwen Huang<sup>†</sup>
 
-- [Displays] [Q2] Multimodal Cross-Domain Recommendation Guided by Optimal Transport with Adaptive Confidence Thresholding Estimator
+- [Displays] [Q2] Multimodal Cross-Domain Recommendation Guided by Optimal Transport with Adaptive Confidence Thresholding Estimator  
   **Haochen You**<sup>*</sup><sup>†</sup>, and Baojing Liu<sup>*</sup>
 
