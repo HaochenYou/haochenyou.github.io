@@ -10,7 +10,7 @@ author_profile: true
 
 ## Conference Papers
 
-- [ACL 2025 Findings] [EvoHyper: Evolving Hypergraph Topologies for Unified Collaboration in Multi-Agent Communication](https://aclanthology.org/2026.findings-acl.1258/){:target="_blank"}  
+- [ACL 2026 Findings] [EvoHyper: Evolving Hypergraph Topologies for Unified Collaboration in Multi-Agent Communication](https://aclanthology.org/2026.findings-acl.1258/){:target="_blank"}  
   Heng Zhang, Yihao Zhong, Lubin Gan, Zhihe Chen, Jiajun Wu, Yuling Shi, Xiaodong Gu, Hao Zhang, **Haochen You**, and Jin Huang
 
 - [DASFAA 2026] [<a href="https://dasfaa2026.github.io/program/awards.html" target="_blank" style="color:#d46a6a; text-decoration:underline;">Best Paper Runner-Up</a>] [Mitigating Generic Token Dominance in Cross-Domain Foundation Model for Text-Attributed Graphs](https://link.springer.com/chapter/10.1007/978-981-92-0366-6_16){:target="_blank"}  
